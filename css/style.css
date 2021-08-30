@@ -3906,7 +3906,7 @@ h6 {
 /* Projects Know Area css
 ============================================================================================ */
 .project_know_area {
-  background: url(../img/details-img.jpg) no-repeat scroll center center;
+  background: url(../img/details-img3.jpg) no-repeat scroll center center;
   background-size: cover;
   text-align: center;
   color: #fff;
@@ -4121,7 +4121,7 @@ h6 {
 /*============== footer-area css ===============*/
 .footer-area {
   background: #222222;
-  padding-top: 120px;
+  padding-top: 0px;
 }
 
 .single-footer-widget p {
